@@ -1,0 +1,9 @@
+{
+"userName":"QAUSER",
+"password":"7HoXxS3d3JUiZJ8ddaunbttY",
+"hostName":"10.151.116.152",
+"port":1521",
+"SID":"CWDB01",
+"oracle_base_url":"download.oracle.com/otn_software/linux/instantclient/193000/oracle-instantclient19.3-basic-19.3.0.0.0-1.x86_64.rpm",
+"oracle_sqlplus_url":"download.oracle.com/otn_software/linux/instantclient/193000/oracle-instantclient19.3-sqlplus-19.3.0.0.0-1.x86_64.rpm"
+}
